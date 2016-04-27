@@ -1,0 +1,32 @@
+{
+  "name": "gulp-rem-scaffold",
+  "version": "1.0.0",
+  "description": "a scffold to use rem code css",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.12.5",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-px3rem": "^0.2.2",
+    "gulp-sass": "^2.3.1",
+    "gulp-sourcemaps": "^2.0.0-alpha",
+    "gulp-uglify": "^1.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosaice/gulp-rem-scaffold.git"
+  },
+  "author": "mosaice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosaice/gulp-rem-scaffold/issues"
+  },
+  "homepage": "https://github.com/mosaice/gulp-rem-scaffold#readme"
+}

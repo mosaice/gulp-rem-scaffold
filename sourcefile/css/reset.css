@@ -1,0 +1,194 @@
+ @media only screen and (max-width: 1080px), only screen and (max-device-width:1080px) {
+   html,body {
+       font-size:144px;
+   }
+ }
+   @media only screen and (max-width: 960px), only screen and (max-device-width:960px) {
+   html,body {
+       font-size:128px;
+   }
+ }
+   @media only screen and (max-width: 800px), only screen and (max-device-width:800px) {
+   html,body {
+       font-size:106.66666666666667px;
+   }
+ }
+   @media only screen and (max-width: 720px), only screen and (max-device-width:720px) {
+   html,body {
+       font-size:96px;
+   }
+ }
+   @media only screen and (max-width: 640px), only screen and (max-device-width:640px) {
+   html,body {
+       font-size:85.33333333333334px;
+   }
+ }
+   @media only screen and (max-width: 600px), only screen and (max-device-width:600px) {
+   html,body {
+       font-size:80px;
+   }
+ }
+   @media only screen and (max-width: 540px), only screen and (max-device-width:540px) {
+   html,body {
+       font-size:72px;
+   }
+ }
+   @media only screen and (max-width: 480px), only screen and (max-device-width:480px) {
+   html,body {
+       font-size:64px;
+   }
+ }
+   @media only screen and (max-width: 414px), only screen and (max-device-width:414px) {
+   html,body {
+       font-size:55.2px;
+   }
+ }
+   @media only screen and (max-width: 400px), only screen and (max-device-width:400px) {
+   html,body {
+       font-size:53.333333333333336px;
+   }
+ }
+   @media only screen and (max-width: 375px), only screen and (max-device-width:375px) {
+   html,body {
+       font-size:50px;
+   }
+ }
+   @media only screen and (max-width: 360px), only screen and (max-device-width:360px) {
+   html,body {
+       font-size:48px;
+   }
+ }
+   @media only screen and (max-width: 320px), only screen and (max-device-width:320px) {
+   html,body {
+       font-size:42.66666666666667px;
+   }
+ }
+   @media only screen and (max-width: 240px), only screen and (max-device-width:240px) {
+   html,body {
+       font-size:32px;
+   }
+ }
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+form,
+fieldset,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+ margin: 0;
+ padding: 0;
+}
+table {
+ border-collapse: collapse;
+ border-spacing: 0;
+}
+fieldset,
+img {
+ border: 0;
+}
+address,
+caption,
+cite,
+code,
+dfn,
+em,
+strong,
+th,
+var {
+ font-style: normal;
+ font-weight: normal;
+}
+ol,
+ul {
+ list-style: none;
+}
+a {
+ text-decoration: none;
+}
+a:hover {
+ text-decoration: none;
+}
+caption,
+th {
+ text-align: left;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+ font-size: 100%;
+ font-weight: normal;
+}
+q:before,
+q:after {
+ content: '';
+}
+abbr,
+acronym {
+ border: 0;
+}
+body {
+ font-family: "Helvetica Neue", Helvetica, Microsoft Yahei, Hiragino Sans GB, WenQuanYi Micro Hei, sans-serif;
+}
+body {
+ font-size: 14.000000000000002px;
+ line-height: 1.42857143;
+ color: #333;
+ background-color: #fff;
+}
+.hidden {
+ overflow: hidden;
+}
+.clearfix:after {
+ visibility: hidden;
+ display: block;
+ font-size: 0;
+ content: " ";
+ clear: both;
+ height: 0;
+}
+.clearfix {
+ zoom: 1;
+}
+.fl {
+ float: left;
+}
+.fr {
+ float: right;
+}
+.text-center {
+ text-align: center;
+}
+.center-block {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+.img-responsive {
+ display: block;
+ max-width: 100%;
+ height: auto;
+}
+* {
+ -webkit-box-sizing: border-box;
+ -moz-box-sizing: border-box;
+ box-sizing: border-box;
+}
